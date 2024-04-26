@@ -1,0 +1,14 @@
+.clickable {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.clickable.left {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.clickable.right {
+    background-color: yellow;
+}
